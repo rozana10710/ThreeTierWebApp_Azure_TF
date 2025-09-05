@@ -1,6 +1,8 @@
-# CloudOps Goal Tracker - Three-Tier Architecture
+Three-Tier Architecture
 
 This project demonstrates a modern three-tier architecture:
+<img width="913" height="470" alt="image" src="https://github.com/user-attachments/assets/19ba9420-17e7-44f7-a101-8fede924f298" />
+
 
 1. **Presentation Layer (Frontend)**: Node.js/Express server serving a JavaScript frontend
 2. **Business Logic Layer (Backend)**: Go API service 
